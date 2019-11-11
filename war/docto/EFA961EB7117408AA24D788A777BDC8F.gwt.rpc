@@ -1,0 +1,20 @@
+@FinalFields, false
+com.docto.client.GreetingService, false, false, false, false, _, 2947794330
+com.docto.shared.Csumm, true, true, false, false, com.docto.shared.Csumm/2645067653, 2645067653
+[Lcom.docto.shared.Csumm;, true, true, false, false, [Lcom.docto.shared.Csumm;/580833267, 580833267
+com.docto.shared.DctRegbeans, false, false, true, true, com.docto.shared.DctRegbeans/1770872324, 1770872324
+com.docto.shared.Event, true, true, true, true, com.docto.shared.Event/1338877379, 1338877379
+[Lcom.docto.shared.Event;, true, true, false, false, [Lcom.docto.shared.Event;/780189310, 780189310
+com.docto.shared.Everegistbeans, false, false, true, true, com.docto.shared.Everegistbeans/564993726, 564993726
+com.docto.shared.News, false, false, true, true, com.docto.shared.News/3423825404, 3423825404
+com.docto.shared.Summm, false, false, true, true, com.docto.shared.Summm/747037980, 747037980
+com.docto.shared.regist, false, false, true, true, com.docto.shared.regist/3504355566, 3504355566
+com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true, true, true, true, com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException/3936916533, 3936916533
+com.google.gwt.user.client.rpc.RpcTokenException, true, true, false, false, com.google.gwt.user.client.rpc.RpcTokenException/2345075298, 2345075298
+com.google.gwt.user.client.rpc.XsrfToken, false, false, true, true, com.google.gwt.user.client.rpc.XsrfToken/4254043109, 4254043109
+java.lang.Exception, true, false, true, false, java.lang.Exception/1920171873, 1920171873
+java.lang.IllegalArgumentException, true, true, false, false, java.lang.IllegalArgumentException/1755012560, 1755012560
+java.lang.NumberFormatException, true, true, false, false, java.lang.NumberFormatException/3305228476, 3305228476
+java.lang.RuntimeException, true, false, true, false, java.lang.RuntimeException/515124647, 515124647
+java.lang.String, true, true, true, true, java.lang.String/2004016611, 2004016611
+java.lang.Throwable, true, false, true, false, java.lang.Throwable/2953622131, 2953622131

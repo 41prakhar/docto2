@@ -1,0 +1,3 @@
+# Module docto
+# RPC service class, partial path of RPC policy file
+com.docto.client.GreetingService, EFA961EB7117408AA24D788A777BDC8F.gwt.rpc

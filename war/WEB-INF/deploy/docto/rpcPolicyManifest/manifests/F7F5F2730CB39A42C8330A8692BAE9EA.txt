@@ -1,0 +1,2 @@
+serviceClass: com.docto.client.GreetingService
+path: EFA961EB7117408AA24D788A777BDC8F.gwt.rpc
